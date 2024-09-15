@@ -22,7 +22,6 @@ This repository contains a collection of previous year questions (PYQs) from the
 - **Programming for problem solving**
 
 ### Semester 3
-- 
 - **Data Structures and Algorithms**
 - **Database Management Systems (DBMS)**
 - **Digital Fundamentals**
